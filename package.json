@@ -1,0 +1,16 @@
+{
+  "name": "pw-ava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ava": "^6.1.1",
+    "playwright": "^1.41.2",
+    "prettier": "^3.2.5"
+  }
+}
